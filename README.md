@@ -15,7 +15,7 @@
 <tr>
 <td align="left">Day-1</td>
 <td align="left">QR Code Generator</td>
-<td align="left"><a href="qr-code-generator.ayushahirwar1.repl.co" rel="nofollow">qr-code-generator.ayushahirwar1.repl.co</a></td>
+<td align="left"><a href="https://qr-code-generator.ayushahirwar1.repl.co" rel="nofollow">https://qr-code-generator.ayushahirwar1.repl.co</a></td>
 </tr>
 <tr>
 <td align="left">Day-2</td>
