@@ -17,31 +17,6 @@
 <td align="left">QR Code Generator</td>
 <td align="left"><a href="https://qr-code-generator.ayushahirwar1.repl.co" rel="nofollow">https://qr-code-generator.ayushahirwar1.repl.co</a></td>
 </tr>
-<tr>
-<td align="left">Day-2</td>
-<td align="left">To-Do List</td>
-<td align="left"><a href="https://ScrawnyLikelyCommunication.mussu.repl.co" rel="nofollow">https://ScrawnyLikelyCommunication.mussu.repl.co</a></td>
-</tr>
-<tr>
-<td align="left">Day-3</td>
-<td align="left">Password Toggle Feature</td>
-<td align="left"><a href="https://RustyPortlyCells.mussu.repl.co" rel="nofollow">https://RustyPortlyCells.mussu.repl.co</a></td>
-</tr>
-<tr>
-<td align="left">Day-4</td>
-<td align="left">Horizontal Scrolling with mouse</td>
-<td align="left"><a href="https://SwelteringCompassionateSystemadministrator.mussu.repl.co" rel="nofollow">https://SwelteringCompassionateSystemadministrator.mussu.repl.co</a></td>
-</tr>
-<tr>
-<td align="left">Day-5</td>
-<td align="left">Weather App</td>
-<td align="left"><a href="https://UnrulyAgonizingExtension.mussu.repl.co" rel="nofollow">https://UnrulyAgonizingExtension.mussu.repl.co</a></td>
-</tr>
-<tr>
-<td align="left">Day-6</td>
-<td align="left">Calculator</td>
-<td align="left"><a href="https://GrumpyMeaslyChief.mussu.repl.co" rel="nofollow">https://GrumpyMeaslyChief.mussu.repl.co</a></td>
-</tr>
 
 </tbody>
 </table>
