@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td align="left">Day-2</td>
-<td align="left">QR Code Generator</td>
+<td align="left">Horizontal Scrolling with mouse wheel</td>
 <td align="left"><a href="https://idlereflectingemulator.ayushahirwar1.repl.co" rel="nofollow">https://idlereflectingemulator.ayushahirwar1.repl.co/</a></td>
 </tr>
 
