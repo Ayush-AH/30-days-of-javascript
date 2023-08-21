@@ -20,7 +20,12 @@
 <tr>
 <td align="left">Day-2</td>
 <td align="left">Horizontal Scrolling with mouse wheel</td>
-<td align="left"><a href="https://idlereflectingemulator.ayushahirwar1.repl.co" rel="nofollow">https://idlereflectingemulator.ayushahirwar1.repl.co/</a></td>
+<td align="left"><a href="https://idlereflectingemulator.ayushahirwar1.repl.co" rel="nofollow">https://idlereflectingemulator.ayushahirwar1.repl.co</a></td>
+</tr>
+<tr>
+<td align="left">Day-3</td>
+<td align="left">Password Toggle Feature</td>
+<td align="left"><a href="https://honestpricklydecimal.ayushahirwar1.repl.co" rel="nofollow">https://honestpricklydecimal.ayushahirwar1.repl.co/</a></td>
 </tr>
 
 </tbody>
