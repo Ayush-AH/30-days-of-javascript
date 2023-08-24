@@ -37,6 +37,11 @@
 <td align="left">Weather App</td>
 <td align="left"><a href="https://peskyvictoriousopengroup.ayushahirwar1.repl.co" rel="nofollow">https://peskyvictoriousopengroup.ayushahirwar1.repl.co</a></td>
 </tr>
+<tr>
+<td align="left">Day-6td>
+<td align="left">Password Generator</td>
+<td align="left"><a href="https://peskyvictoriousopengroup.ayushahirwar1.repl.co" rel="nofollow">https://peskyvictoriousopengroup.ayushahirwar1.repl.co</a></td>
+</tr>
 
 </tbody>
 </table>
