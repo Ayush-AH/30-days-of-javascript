@@ -38,9 +38,14 @@
 <td align="left"><a href="https://peskyvictoriousopengroup.ayushahirwar1.repl.co" rel="nofollow">https://peskyvictoriousopengroup.ayushahirwar1.repl.co</a></td>
 </tr>
 <tr>
-<td align="left">Day-6td>
+<td align="left">Day-6</td>
 <td align="left">Password Generator</td>
 <td align="left"><a href="https://meagerflakyshareware.ayushahirwar1.repl.co" rel="nofollow">https://meagerflakyshareware.ayushahirwar1.repl.co</a></td>
+</tr>
+<tr>
+<td align="left">Day-7</td>
+<td align="left">Drag and Drop</td>
+<td align="left"><a href="https://mediumbluelimegreenrobot.ayushahirwar1.repl.co" rel="nofollow">https://mediumbluelimegreenrobot.ayushahirwar1.repl.co/</a></td>
 </tr>
 
 </tbody>
