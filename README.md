@@ -45,7 +45,12 @@
 <tr>
 <td align="left">Day-7</td>
 <td align="left">Drag and Drop</td>
-<td align="left"><a href="https://mediumbluelimegreenrobot.ayushahirwar1.repl.co" rel="nofollow">https://mediumbluelimegreenrobot.ayushahirwar1.repl.co/</a></td>
+<td align="left"><a href="https://mediumbluelimegreenrobot.ayushahirwar1.repl.co" rel="nofollow">https://mediumbluelimegreenrobot.ayushahirwar1.repl.co</a></td>
+</tr>
+<tr>
+<td align="left">Day-8</td>
+<td align="left">Website Coming Soon</td>
+<td align="left"><a href="https://selfassuredlikelykernel.ayushahirwar1.repl.co" rel="nofollow">https://selfassuredlikelykernel.ayushahirwar1.repl.co</a></td>
 </tr>
 
 </tbody>
