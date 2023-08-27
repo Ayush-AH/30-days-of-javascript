@@ -52,6 +52,11 @@
 <td align="left">Website Coming Soon</td>
 <td align="left"><a href="https://selfassuredlikelykernel.ayushahirwar1.repl.co" rel="nofollow">https://selfassuredlikelykernel.ayushahirwar1.repl.co</a></td>
 </tr>
+<tr>
+<td align="left">Day-9</td>
+<td align="left">Calculator</td>
+<td align="left"><a href="https://sleepytimelyprojections.ayushahirwar1.repl.co" rel="nofollow">https://sleepytimelyprojections.ayushahirwar1.repl.co</a></td>
+</tr>
 
 </tbody>
 </table>
