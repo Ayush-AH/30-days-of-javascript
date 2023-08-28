@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#container{
+    height: 100%;
+    width: 100%;
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#selector{
+    width: 350px;
+}
+#selectedFeild{
+    width: 100%;
+    padding: 15px 20px;
+    background-color: red;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+#selectedFeild img{
+    width: 12px;
+}
+
+#list{
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 6px;
+    overflow: hidden;
+}
+.hide{
+    visibility: hidden;
+}
+.option{
+    width: 100%; 
+    padding: 15px;
+    list-style: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    display: flex;
+    align-items:center;
+    gap: 25px;
+}
+.option:hover{
+    background-color: #fff;
+}
+.option img{
+    width: 30px;
+}
+.rotate{
+    transform: rotate(180deg);
+}
