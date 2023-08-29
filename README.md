@@ -60,7 +60,12 @@
 <tr>
 <td align="left">Day-10</td>
 <td align="left">Custom Select Box Design</td>
-<td align="left"><a href="https://abandonedshorttermdevelopments.ayushahirwar1.repl.co" rel="nofollow">https://abandonedshorttermdevelopments.ayushahirwar1.repl.co/</a></td>
+<td align="left"><a href="https://abandonedshorttermdevelopments.ayushahirwar1.repl.co" rel="nofollow">https://abandonedshorttermdevelopments.ayushahirwar1.repl.co</a></td>
+</tr>
+<tr>
+<td align="left">Day-11</td>
+<td align="left">Clock</td>
+<td align="left"><a href="https://shamelessdirtyconnection.ayushahirwar1.repl.co" rel="nofollow">https://shamelessdirtyconnection.ayushahirwar1.repl.co</a></td>
 </tr>
 
 </tbody>
