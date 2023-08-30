@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#calendar{
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    overflow: hidden;
+}
+#left{
+    width: 57%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#right{
+    width: 43%;
+    height: 100%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#date{
+    font-size: 60px;
+}
+#day{
+    font-size: 30px;
+}
+#right{
+    font-size: 25px;
+}
