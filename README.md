@@ -77,6 +77,11 @@
 <td align="left">Quote Generator</td>
 <td align="left"><a href="https://usableanxiouskernelmode.ayushahirwar1.repl.co" rel="nofollow">https://usableanxiouskernelmode.ayushahirwar1.repl.co</a></td>
 </tr>
+<tr>
+<td align="left">Day-14</td>
+<td align="left">QAge Calculator</td>
+<td align="left"><a href="https://euphoricneedyexpertise.ayushahirwar1.repl.co" rel="nofollow">https://euphoricneedyexpertise.ayushahirwar1.repl.co/</a></td>
+</tr>
 
 </tbody>
 </table>
