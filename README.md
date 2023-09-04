@@ -91,7 +91,11 @@
 <td align="left">Day-16</td>
 <td align="left">Notes App</td>
 <td align="left"><a href="https://notesapp.ayushahirwar1.repl.co" rel="nofollow">https://notesapp.ayushahirwar1.repl.co</a></td>
-  
+</tr>
+<tr>
+<td align="left">Day-17</td>
+<td align="left">Password strength indicator</td>
+<td align="left"><a href="https://passwordstrength.ayushahirwar1.repl.co" rel="nofollow">https://passwordstrength.ayushahirwar1.repl.co/</a></td>
 </tr>
 </tbody>
 </table>
