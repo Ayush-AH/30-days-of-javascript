@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+*::-webkit-scrollbar{
+    background-color: black;
+    width: 5px;
+    height: 120px;
+}
+*::-webkit-scrollbar-thumb{
+    background-color: rgb(240, 6, 6);
+    border-radius: 25px;
+}
+#container{
+    min-height: 100%;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    padding-top: 200px;
+    
+}
+#uppbody{
+    height: 200px;
+    width: 100%;
+    padding: 40px;
+    position: fixed;
+    background-color: black;
+    top: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: 30px 0;
+}
+form{
+    text-align: center;
+    width: 600px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #6667678f;
+}
+form input{
+    height: 100%;
+    flex: 1;
+    padding: 0 30px;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+#search-btn{
+    height: 100%;
+    padding: 0 30px;
+    outline: none;
+    border: none;
+    background-color: #ff3929;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+button:hover{
+    background-color: red;
+}
+#search-result{
+    width: 80%;
+    margin: 40px auto 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    background-color: black;
+}
+#search-result img{
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 4px;
+    
+}
+#row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#show-more{
+    padding: 10px 30px;
+    outline: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #ff3929;
+    border-radius: 4px;
+    display: none;
+    
+}
+@media (max-width:700px) {
+    #uppbody{
+        padding: 20px;
+        height: 250px;
+    }
+    #search-btn{
+        padding: 0 15px;
+    }
+    #search-result{
+        width: 80%;
+        grid-template-columns: 1fr ;
+    }
+    form{
+        width: 280px;
+    }
+}
