@@ -110,7 +110,7 @@
 <tr>
 <td align="left">Day-20</td>
 <td align="left">Music Player</td>
-<td align="left"><a href="https://musicplayer.ayushahirwar1.repl.co/" rel="nofollow">https://musicplayer.ayushahirwar1.repl.co</a></td>
+<td align="left"><a href="https://musicplayers.ayushahirwar1.repl.co/" rel="nofollow">https://musicplayers.ayushahirwar1.repl.co</a></td>
 </tr>
 
 </tbody>
