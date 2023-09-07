@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#container{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#music-player{
+    width: 400px;
+    padding: 25px 35px;
+    background-color: black;
+    border-radius: 4px;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#navbar{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#navbar div{
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+#music-img{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    margin-top: 30px;
+    overflow: hidden;
+    background-image: url(https://images.unsplash.com/photo-1619067321513-bb55a012e9b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM3fHxtdXNpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-position: center;
+}
+/* #img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+} */
+#music-player h1{
+    color: #fff;
+    margin-top: 20px;
+    font-weight: 100;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+#music-player p{
+    color: #fff;
+    font-size: 16px;
+}
+#range{
+    appearance: none;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(to top right ,blue,purple);
+    margin: 25px 0;
+    outline: none;
+    border: none;
+}
+#range::-webkit-slider-thumb{
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(128, 0, 128);
+    cursor: pointer;
+    border: 6px solid white;
+    
+}
+#timer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#btn{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    margin: 20px 0;
+}
+#btn div{
+    height: 100%;
+    width: 70px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#btn i{
+    font-size: 80px;
+    color: rgb(183, 0, 255);
+}
+
+@media (max-width:500px) {
+    #music-player{
+        width:100%;
+        height: 100%;
+        border: none;
+    }
+    #music-img{
+        margin-top: 80px;
+    }
+    #range{
+        margin-top: 90px;
+    }
+}

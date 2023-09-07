@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div id="container">
+        <div id="music-player">
+            <div id="navbar">
+                <div><i class="ri-arrow-left-s-line"></i></div>
+                <div><i class="ri-menu-3-line"></i></div>
+            </div>
+            <div id="music-img">
+                <!-- <img id="img"
+                    src="https://images.unsplash.com/photo-1619067321513-bb55a012e9b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM3fHxtdXNpY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+                    alt=""> -->
+            </div>
+            <h1>On My Way</h1>
+            <p>AlanWalker On My Way </p>
+            <audio  id="song">
+                <source src="AlanWalker On My Way.mp3">
+            </audio>
+            <input value="0" id="range" type="range">
+            <div id="timer">
+                <p id="cTime"></p>
+                <p id="time"></p>
+            </div>
+            <div id="btn">
+                <div><i class="ri-skip-back-mini-fill"></i></div>
+                <div onclick="PlayPaused()"><i id="playicon" class="ri-pause-circle-fill"></i></div>
+                <div><i class="ri-skip-right-fill"></i></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
