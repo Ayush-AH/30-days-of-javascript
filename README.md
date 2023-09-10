@@ -119,7 +119,7 @@
 </tr>
 <tr>
 <td align="left">Day-23</td>
-<td align="left">Instagram Like Feature</td>
+<td align="left">Custom cursor</td>
 <td align="left"><a href="https://custom-cursor.ayushahirwar1.repl.co/" rel="nofollow">https://custom-cursor.ayushahirwar1.repl.co</a></td>
 </tr>  
 </tbody>
