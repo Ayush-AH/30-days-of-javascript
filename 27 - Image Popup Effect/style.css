@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#centre{
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#centre h1{
+    font-size: 150px;
+    text-transform: uppercase;
+    font-family: gilroy;
+    font-weight: 900;
+}
+#centre h3{
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: gilroy;
+    font-weight: 6s00;
+}
+.imgdiv{
+    position: absolute;
+    height: 260px;
+    width: 180px;
+    overflow: hidden;
+}
+.imgdiv img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transform: translateY(100%);
+}
