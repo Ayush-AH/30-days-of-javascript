@@ -150,7 +150,7 @@
  <tr>
 <td align="left">Day-28</td>
 <td align="left">Image Slider</td>
-<td align="left"><a href="https://imagepopup-animation.ayushahirwar1.repl.co/" rel="nofollow">https://imagepopup-animation.ayushahirwar1.repl.co/</a></td>
+<td align="left"><a href="https://image-slider.ayushahirwar1.repl.co/" rel="nofollow">https://image-slider.ayushahirwar1.repl.co/</a></td>
 </tr> 
 </tbody>
 </table>
