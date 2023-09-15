@@ -137,14 +137,19 @@
 <td align="left">Multiply Image Hovering Animation</td>
 <td align="left"><a href="https://multipleimage-hover.ayushahirwar1.repl.co/" rel="nofollow">https://multipleimage-hover.ayushahirwar1.repl.co/</a></td>
 </tr> 
-    <tr>
+ <tr>
 <td align="left">Day-26</td>
 <td align="left">Stop Watch</td>
 <td align="left"><a href="https://stopwatch.ayushahirwar1.repl.co/" rel="nofollow">https://stopwatch.ayushahirwar1.repl.co/</a></td>
 </tr> 
-      <tr>
+ <tr>
 <td align="left">Day-27</td>
 <td align="left">Image Popup Animation</td>
+<td align="left"><a href="https://imagepopup-animation.ayushahirwar1.repl.co/" rel="nofollow">https://imagepopup-animation.ayushahirwar1.repl.co/</a></td>
+</tr> 
+ <tr>
+<td align="left">Day-28</td>
+<td align="left">Image Slider</td>
 <td align="left"><a href="https://imagepopup-animation.ayushahirwar1.repl.co/" rel="nofollow">https://imagepopup-animation.ayushahirwar1.repl.co/</a></td>
 </tr> 
 </tbody>
